@@ -1,3 +1,6 @@
 [submodule "euler"]
 	path = euler
 	url = ./euler
+[submodule "09_array"]
+	path = 09_array
+	url = https://github.com/mks65/array-swap-ruoshui-git
