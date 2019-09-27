@@ -42,7 +42,7 @@ void arrcopy(const int* src, int* tar, const int size) {
 int slen(const char* str) {
     int i = 0;
     while (str[i] != '\0') {
-        printf("char: %c at %d\n", str[i], i);
+        // printf("char: %c at %d\n", str[i], i);
         i++;
     }
     return i;
