@@ -6,4 +6,4 @@
 	url = https://github.com/mks65/array-swap-ruoshui-git
 [submodule "14_strfunc"]
 	path = 14_strfunc
-	url = https://github.com/ruoshui-git/MKS65-14_string_func
+	url = https://github.com/mks65/strings-ruoshui
