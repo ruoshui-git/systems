@@ -7,3 +7,6 @@
 [submodule "14_strfn"]
 	path = 14_strfn
 	url = https://github.com/mks65/strings-ruoshui
+[submodule "w2_construction"]
+	path = w2_construction
+	url = https://github.com/ruoshui-git/MKS65-w2_construction
