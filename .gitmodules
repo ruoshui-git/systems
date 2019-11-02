@@ -10,3 +10,6 @@
 [submodule "w2_construction"]
 	path = w2_construction
 	url = https://github.com/ruoshui-git/MKS65-w2_construction
+[submodule "p0_myTunes"]
+	path = p0_myTunes
+	url = https://github.com/ruoshui-git/MKS65-p0_myTunes
